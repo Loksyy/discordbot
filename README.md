@@ -6,7 +6,7 @@ Started this project for learning purposes using the framework [discord.js](http
 ## How to use
 1) ``` npm install ```
 
-2) Add your token in config.json
+2) ``` touch config.json ``` then add your token
 
 3) modify events/message.js as you want
 
